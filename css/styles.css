@@ -209,12 +209,12 @@ h2 {
     color: #4d5ae5;
 }
 
-.footer span {
-    color: #f4f4fd;
-}
-
 .footer-text {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.footer-studio {
+    color: #f4f4fd;
 }
