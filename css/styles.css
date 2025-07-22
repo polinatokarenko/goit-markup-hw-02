@@ -69,6 +69,10 @@ li {
     color: #434455;
 }
 
+.mail-tel {
+    color: #434455;
+}
+
 .mail-tel:hover {
     color: #404bbf;
 }
@@ -144,6 +148,10 @@ h2 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+
+.team-card {
+    background-color: #FFFFFF;
 }
 
 .names {
